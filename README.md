@@ -1,3 +1,4 @@
+# push!
 # Cloudflare DDNS for UniFi OS
 
 A Cloudflare Worker script that exposes a UniFi-compatible DDNS API to dynamically update the IP address of a DNS A record.
